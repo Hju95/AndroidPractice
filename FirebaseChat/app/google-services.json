@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "67138498615",
+    "firebase_url": "https://androidkotlin-1e2b4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "androidkotlin-1e2b4",
+    "storage_bucket": "androidkotlin-1e2b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67138498615:android:a4f3d9060a9ec9e00c4fb2",
+        "android_client_info": {
+          "package_name": "com.firehong.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67138498615-hl3ig03sncmp93vsl04lbl0v28m34rl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ56u77jBRUjWEKFqZ8U0FhLqVaFSlO9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67138498615-hl3ig03sncmp93vsl04lbl0v28m34rl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67138498615:android:ad8b17d3f6a319e90c4fb2",
+        "android_client_info": {
+          "package_name": "com.firehong.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67138498615-hl3ig03sncmp93vsl04lbl0v28m34rl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ56u77jBRUjWEKFqZ8U0FhLqVaFSlO9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67138498615-hl3ig03sncmp93vsl04lbl0v28m34rl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
