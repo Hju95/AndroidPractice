@@ -28,6 +28,6 @@ class MainActivity : AppCompatActivity() {
 
     fun goBack(){
         onBackPressed()
-//        주석
+//        주석2123
     }
 }
