@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164082176894",
+    "project_id": "push-alarm-cdd4e",
+    "storage_bucket": "push-alarm-cdd4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164082176894:android:2da5a116c351ce1900592f",
+        "android_client_info": {
+          "package_name": "com.firehong.pushalarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164082176894-1750nuinbpcibd6j1mkvlts5c7seldlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9znVMtilyY9bH0nNOmAKwVEY5EiPl3us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164082176894-1750nuinbpcibd6j1mkvlts5c7seldlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
